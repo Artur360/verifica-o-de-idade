@@ -1,0 +1,11 @@
+h1{
+font-family: f1;
+margin: 25%;
+color: aliceblue;
+text-shadow: 5px 5px 1px rgb(90, 90, 90);
+}
+
+@font-face {
+    font-family: f1;
+    src: url(LEMONMILK-Bold.otf);
+}

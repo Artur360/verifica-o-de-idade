@@ -1,0 +1,19 @@
+h1{
+font-family: f1;
+text-align: center;
+color: rgb(0, 0, 0);
+text-shadow: 5px 5px 1px rgb(175, 175, 175);
+}
+
+@font-face {
+    font-family: f1;
+    src: url(LEMONMILK-BoldItalic.otf);
+}
+
+div{
+    margin: 25%;
+padding: 5px;
+background-color: rgb(221, 221, 255);
+
+border-radius: 10%;
+}
